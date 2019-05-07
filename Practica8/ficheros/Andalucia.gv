@@ -1,0 +1,26 @@
+strict graph G {
+  1 [ label="Sevilla" ];
+  2 [ label="Cadiz" ];
+  3 [ label="Huelva" ];
+  4 [ label="Cordoba" ];
+  5 [ label="Malaga" ];
+  6 [ label="Antequera" ];
+  7 [ label="Almeria" ];
+  8 [ label="Granada" ];
+  9 [ label="Jaen" ];
+  10 [ label="Algeciras" ];
+  1 -- 3 [ label="A-49--92.85 kms" ];
+  1 -- 4 [ label="A-4--140.543 kms" ];
+  1 -- 2 [ label="AP-4--121.066 kms" ];
+  1 -- 6 [ label="A-92--159.947 kms" ];
+  6 -- 8 [ label="A-92--97.306 kms" ];
+  6 -- 5 [ label="A-45--51.523 kms" ];
+  6 -- 4 [ label="A-45--123.415 kms" ];
+  5 -- 7 [ label="A-7--201.029 kms" ];
+  4 -- 9 [ label="A-316--108.12 kms" ];
+  4 -- 8 [ label="N-432--207.838 kms" ];
+  8 -- 7 [ label="A-92--167.624 kms" ];
+  8 -- 9 [ label="A-44--93.161 kms" ];
+  2 -- 10 [ label="A-381--104.211 kms" ];
+  10 -- 5 [ label="A-7--138.0 kms" ];
+}
