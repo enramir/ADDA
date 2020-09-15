@@ -1,3 +1,4 @@
 # ADDA
-Prácticas resueltas de la asignatura de Análisis y Diseño de Datos y Algoritmos (ADDA). Todas son proyectos realizados en el 
-entorno de desarrollo Eclipse.
+
+Resolved practices of the subject of analysis and design of data and algorithms. All are projects carried out in the
+Eclipse development environment.
